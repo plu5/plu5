@@ -18,5 +18,5 @@
       &nbsp; iii <ins>[`automatic-releases-with-sha-action`](https://github.com/plu5/automatic-releases-with-sha-action)</ins> <sub><sup>(fork)</sub></sup>
 4. **Personal:**
    1. <ins>[`site`](https://github.com/plu5/plu5.github.io)</ins>,
-      &nbsp; ii. <ins>[`testing-staticx`](https://github.com/plu5/testing-staticx)</ins> <sub><sup>(scratch)</sub></sup>,
       &nbsp; iii. <ins>[`testing-actions-github`](https://github.com/plu5/testing-actions-github)</ins> <sub><sup>(scratch)</sub></sup>
+      &nbsp; ii. <ins>[`testing-staticx`](https://github.com/plu5/testing-staticx)</ins> <sub><sup>(scratch)</sub></sup>,
