@@ -5,12 +5,12 @@
    1. <ins>[`retype`](https://github.com/plu5/retype)</ins>,
       &nbsp; ii. <ins>[`eisenhour`](https://github.com/plu5/eisenhour)</ins>
 2. **Mods / Customisation:**
-   1. <ins>[`p-borderlands`](https://github.com/plu5/p-borderlands)</ins>,
-      &nbsp; ii. <ins>[`tree-style-tab-modo-theme`](https://github.com/plu5/tree-style-tab-modo-theme)</ins>,
-      &nbsp; iii. <ins>[`emacs-fsff-theme`](https://github.com/plu5/emacs-fsff-theme)</ins> <sub><sup>(emacs)</sub></sup>,
-      &nbsp; iv. <ins>[`smart-mode-line-powerline2`](smart-mode-line-powerline2)</ins>,
-      &nbsp; v. </sup> <ins>[`p-layout-search`](https://github.com/plu5/p-layout-search)</ins> <sub><sup>(emacs)</sub></sup>,
-      &nbsp; vi. <ins>[`blender-scripts-and-configuration`](https://github.com/plu5/blender-scripts-and-configuration)</ins> <sub><sup>(blender)</sub></sup>
+   1. <ins>[`p-borderlands`](https://github.com/plu5/p-borderlands)</ins> <sub><sup>(Borderlands 2)</sub></sup>,
+      &nbsp; ii. <ins>[`tree-style-tab-modo-theme`](https://github.com/plu5/tree-style-tab-modo-theme)</ins> <sub><sup>(treestyletab)</sub></sup>,
+      &nbsp; iii. <ins>[`emacs-fsff-theme`](https://github.com/plu5/emacs-fsff-theme)</ins> <sub><sup>(Emacs)</sub></sup>,
+      &nbsp; iv. <ins>[`smart-mode-line-powerline2`](smart-mode-line-powerline2)</ins> <sub><sup>(Emacs)</sub></sup>,
+      &nbsp; v. </sup> <ins>[`p-layout-search`](https://github.com/plu5/p-layout-search)</ins> <sub><sup>(Blender)</sub></sup>,
+      &nbsp; vi. <ins>[`blender-scripts-and-configuration`](https://github.com/plu5/blender-scripts-and-configuration)</ins> <sub><sup>(Blender)</sub></sup>
 3. **GitHub Actions:**
    1. <ins>[`cache-anything-new-in-container-action`](https://github.com/plu5/cache-anything-new-in-container-action)</ins> <sub><sup>(fork)</sub></sup>,
       &nbsp; ii. <ins>[`run-script-in-workflow-dir-action`](https://github.com/plu5/run-script-in-workflows-dir-action)</ins>,
