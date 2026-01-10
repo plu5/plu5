@@ -10,7 +10,7 @@
    1. [`retype`](https://github.com/plu5/retype),
       &nbsp; ii. [`eisenhour`](https://github.com/plu5/eisenhour),
       &nbsp; iii. [`mwin`](https://github.com/plu5/mwin)
-2. **Mods / Customisation:**
+2. **Mods / configuration / customisation:**
    1. [`p-borderlands`](https://github.com/plu5/p-borderlands) <sub><sup>(Borderlands 2)</sub></sup>,
       &nbsp; ii. [`tree-style-tab-modo-theme`](https://github.com/plu5/tree-style-tab-modo-theme) <sub><sup>(treestyletab)</sub></sup>,
       &nbsp; iii. [`emacs-fsff-theme`](https://github.com/plu5/emacs-fsff-theme) <sub><sup>(Emacs)</sub></sup>,
