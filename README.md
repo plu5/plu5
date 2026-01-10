@@ -15,9 +15,10 @@
       &nbsp; ii. [`tree-style-tab-modo-theme`](https://github.com/plu5/tree-style-tab-modo-theme) <sub><sup>(treestyletab)</sub></sup>,
       &nbsp; iii. [`emacs-fsff-theme`](https://github.com/plu5/emacs-fsff-theme) <sub><sup>(Emacs)</sub></sup>,
       &nbsp; iv. [`smart-mode-line-powerline2`](smart-mode-line-powerline2) <sub><sup>(Emacs)</sub></sup>,
-      &nbsp; v. </sup> [`p-layout-search`](https://github.com/plu5/p-layout-search) <sub><sup>(Blender)</sub></sup>,
+      &nbsp; v. [`p-layout-search`](https://github.com/plu5/p-layout-search) <sub><sup>(Blender)</sub></sup>,
       &nbsp; vi. [`blender-scripts-and-configuration`](https://github.com/plu5/blender-scripts-and-configuration) <sub><sup>(Blender)</sub></sup>,
-      &nbsp; vii. [`emacs-doentry`](https://github.com/plu5/emacs-doentry) <sub><sup>(Emacs)</sub></sup>
+      &nbsp; vii. [`emacs-doentry`](https://github.com/plu5/emacs-doentry) <sub><sup>(Emacs)</sub></sup>,
+      &nbsp; viii. [`pyhuntsman`](https://github.com/plu5/pyhuntsman) <sub><sup>(keyboard)</sub></sup>
 3. **GitHub Actions:**
    1. [`cache-anything-new-in-container-action`](https://github.com/plu5/cache-anything-new-in-container-action) <sub><sup>(fork)</sub></sup>,
       &nbsp; ii. [`run-script-in-workflows-dir-action`](https://github.com/plu5/run-script-in-workflows-dir-action),
