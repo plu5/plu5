@@ -29,4 +29,5 @@
    1. [`site`](https://github.com/plu5/plu5.github.io),
       &nbsp; ii. [`testing-actions-github`](https://github.com/plu5/testing-actions-github) <sub><sup>(scratch)</sub></sup>,
       &nbsp; iii. [`testing-staticx`](https://github.com/plu5/testing-staticx) <sub><sup>(scratch)</sub></sup>,
-      &nbsp; iv. [`dotfiles`](https://github.com/plu5/dotfiles) <sub><sup>(conf)</sub></sup>
+      &nbsp; iv. [`dotfiles`](https://github.com/plu5/dotfiles) <sub><sup>(conf)</sub></sup>,
+      &nbsp; v. [`emacsd`](https://github.com/plu5/emacsd) <sub><sup>(conf)</sub></sup>
