@@ -31,3 +31,5 @@
       &nbsp; iii. [`testing-staticx`](https://github.com/plu5/testing-staticx) <sub><sup>(scratch)</sub></sup>,
       &nbsp; iv. [`dotfiles`](https://github.com/plu5/dotfiles) <sub><sup>(conf)</sub></sup>,
       &nbsp; v. [`emacsd`](https://github.com/plu5/emacsd) <sub><sup>(conf)</sub></sup>
+5. **Gists**
+   1. [`blwb`](https://gist.github.com/plu5/acac697b0bc172d4905179f284bffdf1) <sub><sup>(userscript)</sub></sup>
