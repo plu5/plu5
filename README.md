@@ -9,10 +9,9 @@
     1. Arch Linux,
     &nbsp; ii. Windows 11
 1. **Projects**
-   - [*Active*]
    1. [`retype`](https://github.com/plu5/retype),
       &nbsp; ii. [`mwinc`](https://github.com/plu5/mwinc)
-   - [*Shelved*]
+   - ↑ active, ↓ shelved
    1. [`eisenhour`](https://github.com/plu5/eisenhour),
       &nbsp; ii. [`mwin`](https://github.com/plu5/mwin)
 3. **Mods / customisation**
