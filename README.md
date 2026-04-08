@@ -5,7 +5,7 @@
     &nbsp; ii. C++,
     &nbsp; iii. Python,
     &nbsp; iv. JavaScript
-4. **Operating systems I test on**
+4. **Operating systems**
     1. Arch Linux,
     &nbsp; ii. Windows 10,
     &nbsp; iii. Windows 98,
