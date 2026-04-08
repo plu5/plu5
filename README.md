@@ -5,9 +5,11 @@
     &nbsp; ii. C++,
     &nbsp; iii. Python,
     &nbsp; iv. JavaScript
-4. **Main operating systems**
+4. **Operating systems I test on**
     1. Arch Linux,
-    &nbsp; ii. Windows 11
+    &nbsp; ii. Windows 10,
+    &nbsp; iii. Windows 98,
+    &nbsp; iv. Windows 11 (rarely)
 1. **Projects**
    1. [`retype`](https://github.com/plu5/retype),
       &nbsp; ii. [`mwinc`](https://github.com/plu5/mwinc)
