@@ -40,7 +40,8 @@
       &nbsp; iv. [`dotfiles`](https://github.com/plu5/dotfiles) <sub><sup>(conf)</sub></sup>,
       &nbsp; v. [`emacsd`](https://github.com/plu5/emacsd) <sub><sup>(conf)</sub></sup>,
       &nbsp; vi. [`tool`](https://github.com/plu5/tool) <sub><sup>(js tools)</sub></sup>,
-      &nbsp; vii. [`algs`](https://github.com/plu5/algs) <sub><sup>(snippets)</sub></sup>
+      &nbsp; vii. [`algs`](https://github.com/plu5/algs) <sub><sup>(snippets)</sub></sup>,
+      &nbsp; viii. [`git-filters-test`](https://github.com/plu5/git-filters-test)
 6. **Gists**
    1. [`blwb`](https://gist.github.com/plu5/acac697b0bc172d4905179f284bffdf1) <sub><sup>(userscript)</sub></sup>,
       &nbsp; ii. [`ublock-filters`](https://gist.github.com/plu5/84c50fd061f844210a7042ed3fc223a1) <sub><sup>(conf)</sub></sup>
