@@ -13,8 +13,7 @@
     &nbsp; iii. Windows 98,
     &nbsp; iv. Windows 11 (rarely)
 1. **Projects**
-   1. [`retype`](https://github.com/plu5/retype),
-      &nbsp; ii. [`mwinc`](https://github.com/plu5/mwinc)
+   1. [`retype`](https://github.com/plu5/retype)
    - ↑ active, ↓ shelved
    1. [`eisenhour`](https://github.com/plu5/eisenhour),
       &nbsp; ii. [`mwin`](https://github.com/plu5/mwin)
